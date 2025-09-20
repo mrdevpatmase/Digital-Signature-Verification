@@ -47,3 +47,4 @@ dist/
 *.egg-info/
 temp.txt
 date_restructure.py
+sample.jpg
